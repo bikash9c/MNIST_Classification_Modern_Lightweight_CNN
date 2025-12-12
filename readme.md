@@ -272,6 +272,4 @@ python test.py
 The model demonstrates excellent performance on the MNIST dataset with a parameter-efficient architecture. The combination of BatchNorm, strategic dropout, and learning rate scheduling resulted in stable training and high accuracy. The architecture successfully balances model complexity with performance constraints.
 
 ---
-**Author**: [Your Name]  
-**Date**: [Assignment Date]  
-**Course**: [Course Code]
+**Author**: [Bikash Chakraborty]
